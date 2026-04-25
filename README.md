@@ -1,7 +1,7 @@
 # Danilo Campos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-campos-675bb625a/)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Full-Stack;Entusiasta+Open+Source;Em+constante+aprendizagem&font=JetBrains+Mono=true&width=350&height=50)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Full-Stack;Entusiasta+Open+Source;Em+constante+aprendizagem&font=JetBrains+Mono=true&color=7aa2f7&width=350&height=30)
 
 Sou um Engenheiro de Software Full-Stack movido pela capacidade criativa de transformar código em soluções aplicáveis que facilitam a vida de pessoas e empresas.
 
@@ -24,6 +24,9 @@ Estou em constante evolução, aprendendo novas tecnologias que elevem o nível 
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
 
 ---
-
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=danilocamposdev&show_icons=true&theme=tokyonight&hide_rank=true&locale=pt-br&count_private=true" alt="Stats" />
+&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danilocamposdev&show_icons=true&locale=pt-br&layout=compact&theme=tokyonight" alt="Most used languages" />
+</p>
 
