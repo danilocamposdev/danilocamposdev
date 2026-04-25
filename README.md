@@ -1,9 +1,9 @@
-# Danilo Campos
+💻 # Danilo Campos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-campos-675bb625a/)
 
-💻 Sou um Engenheiro de Software Full-Stack movido pela capacidade criativa de transformar código em soluções aplicáveis que facilitam a vida de pessoas e empresas.
+Sou um Engenheiro de Software Full-Stack movido pela capacidade criativa de transformar código em soluções aplicáveis que facilitam a vida de pessoas e empresas.
 
-🚀 Estou em constante evolução, aprendendo novas tecnologias que elevem o nível das soluções que desenvolvo.
+Estou em constante evolução, aprendendo novas tecnologias que elevem o nível das soluções que desenvolvo.
 
 ## Linguagens e Ferramentas
 
