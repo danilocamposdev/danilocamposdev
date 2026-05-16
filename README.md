@@ -28,8 +28,8 @@ Estou em constante evolução, aprendendo novas tecnologias que elevem o nível 
 
 ---
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=danilocamposdev&show_icons=true&theme=tokyonight&hide_rank=true&locale=pt-br&count_private=true&include_all_commits=true" alt="Estatísticas do perfil" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=danilocamposdev&show_icons=true&locale=pt-br&layout=compact&theme=tokyonight" alt="Most used languages" />
+  <img src="https://github-readme-stats.shion.dev/api?username=danilocamposdev&show_icons=true&theme=tokyonight&hide_rank=true&locale=pt-br&count_private=true&include_all_commits=true" alt="Estatísticas do perfil" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.shion.dev/api/top-langs?username=danilocamposdev&show_icons=true&locale=pt-br&layout=compact&theme=tokyonight" alt="Most used languages" />
 </p>
 
